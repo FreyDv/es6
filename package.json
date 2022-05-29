@@ -1,0 +1,30 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "s1": "nodemon 1_let_const.js",
+    "s2": "nodemon 2_arrow_function.js",
+    "s3": "nodemon 3_defualt_params.js",
+    "s4": "nodemon 4_strings.js",
+    "s5": "nodemon 5_rest_spred.js",
+    "s6": "nodemon 6_objects.js",
+    "s8": "nodemon 8_classes.js",
+    "s9": "nodemon 9_simbols.js",
+    "s10": "nodemon 10_generators_iterators.js",
+    "s11": "nodemon 11_promises.js",
+    "s12": "nodemon 12_defualt_params.js",
+    "s13": "nodemon 13_Reflect.js",
+    "s14": "nodemon 14_Proxy.js",
+    "s15": "nodemon 12_defualt_params.js",
+    "s16": "nodemon 12_defualt_params.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
